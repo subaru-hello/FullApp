@@ -22,3 +22,5 @@ terraform
   - ECS task and services
   - ECR(backendのイメージを置く用)
   (ACMも追加してHTTPS化したい)
+
+### AWS構成図（TODO）
